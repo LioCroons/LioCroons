@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/duc%C3%ADlio-mateus-manjate-1269041b5/)](https://www.linkedin.com/in/duc%C3%ADlio-mateus-manjate-1269041b5/)
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=http://wa.me/5545984033369)](http://wa.me/5545984033369)
-[![Email Badge](https://img.shields.io/badge/-Email-3ABFE6?style=flat-square&logo=minutemailer&color=black&&logoColor=white&link=mailto:thiago_marketingdigital@hotmail.com)](mailto:thiago_marketingdigital@hotmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-3ABFE6?style=flat-square&logo=minutemailer&color=black&&logoColor=white&link=mailto:liomanjate|@gmail)](mailto:liomanjate@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&color=black&logoColor=white&link=https://twitter.com/Ducy's)](https://twitter.com/Ducy's)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&color=black&logoColor=white&link=https://www.instagram.com/lio_croons)](https://www.instagram.com/lio_croons)
 
